@@ -1,34 +1,29 @@
 # Test-Case-Bug-Reports
 
-🧪 About the Project
+🧪 About the Project : &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 This project focuses on writing and executing test cases for the futurenation web application. The goal is to ensure these features function correctly and reliably under different conditions.
 
-✅ Pre-requisites
+✅ Pre-requisites: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 Microsoft Excel (used for documenting test cases and bug reports)
 
-🧾 What is a Test Case?
+🧾 What is a Test Case? &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 A test case is a documented set of actions, inputs, and expected results designed to verify a particular feature or functionality of a software application. If a test case fails, it often indicates a defect that needs investigation and resolution.
 
-🐞 What is a Bug Report?
+🐞 What is a Bug Report? &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 A bug report provides detailed information about defects or issues found during testing. It includes steps to reproduce the bug, expected vs actual results, and relevant screenshots or logs. This helps developers identify and resolve issues more efficiently.
 
-💡 Why Test Cases Matter
+💡 Why Test Cases Matter &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 Ensure all features meet functional requirements
 
-Validate system behavior under different scenarios
+1. Validate system behavior under different scenarios
+2. Improve software quality and reliability
+3. Help uncover hidden defects early in the development cycle
 
-Improve software quality and reliability
-
-Help uncover hidden defects early in the development cycle
-
-🔧 Why Bug Reporting is Important
-Keeps the development team informed of defects
-
-Enhances communication between testers and developers
-
-Ensures faster resolution and improved user experience
-
-Maintains software integrity and stability
+🔧 Why Bug Reporting is Important &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+1. Keeps the development team informed of defects
+2. Enhances communication between testers and developers
+3. Ensures faster resolution and improved user experience
+4. Maintains software integrity and stability
 
 
 ![image](https://github.com/user-attachments/assets/0007afb4-42cb-4ef1-8ce6-82e3cc41c069)
