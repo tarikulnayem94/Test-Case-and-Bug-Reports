@@ -1,27 +1,25 @@
-# Test-Case-Bug-Reports
+#  Test-Case-Bug-Reports
 <br>
-# 🧪 About the Project : &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+#  🧪 About the Project : &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
 <br><br>
 This project focuses on writing and executing test cases for the futurenation web application. The goal is to ensure these features function correctly and reliably under different conditions.
 <br><br>
-# ✅ Pre-requisites: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <be>
+#  ✅ Pre-requisites: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <be>
 <br><br>
 Microsoft Excel (used for documenting test cases and bug reports)
 <br><br>
-# 🧾 What is a Test Case? &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <be>
+#  🧾 What is a Test Case? &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <be>
 <br><br>
 A test case is a documented set of actions, inputs, and expected results designed to verify a particular feature or functionality of a software application. If a test case fails, it often indicates a defect that needs investigation and resolution.
 <br><br>
-# 💡 Why Test Cases Matter &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+#  💡 Why Test Cases Matter &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
 <br><br>
 Ensure all features meet functional requirements
 <br>
 <br>
   
-1. Validate system behavior under different scenarios
-  
-2. Improve software quality and reliability
-  
+1. Validate system behavior under different scenarios  
+2. Improve software quality and reliability 
 3. Help uncover hidden defects early in the development cycle
 
 <br>
