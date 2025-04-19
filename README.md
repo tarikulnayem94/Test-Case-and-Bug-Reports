@@ -1,21 +1,21 @@
 # Test-Case-Bug-Reports
 <br>
 🧪 About the Project : &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
-<br>
+<br><br>
 This project focuses on writing and executing test cases for the futurenation web application. The goal is to ensure these features function correctly and reliably under different conditions.
-<br>
+<br><br>
 ✅ Pre-requisites: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <be>
-<br>
+<br><br>
 Microsoft Excel (used for documenting test cases and bug reports)
-<br>
+<br><br>
 🧾 What is a Test Case? &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <be>
-<br>
+<br><br>
 A test case is a documented set of actions, inputs, and expected results designed to verify a particular feature or functionality of a software application. If a test case fails, it often indicates a defect that needs investigation and resolution.
-<br>
+<br><br>
 💡 Why Test Cases Matter &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
-<br>
+<br><br>
 Ensure all features meet functional requirements
-<br>
+<br><br>
 1. Validate system behavior under different scenarios
 2. Improve software quality and reliability
 3. Help uncover hidden defects early in the development cycle
@@ -28,11 +28,11 @@ https://docs.google.com/spreadsheets/d/1YSM2WyusImuDmwXczX7rvAVrstPzxq8XI4-5iHgH
 <br><br>
 
 🐞 What is a Bug Report? &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <be>
-<br>
+<br><br>
 A bug report provides detailed information about defects or issues found during testing. It includes steps to reproduce the bug, expected vs actual results, and relevant screenshots or logs. This helps developers identify and resolve issues more efficiently.
 <br>
 🔧 Why Bug Reporting is Important &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<br>
+<br><br>
 1. Keeps the development team informed of defects
 2. Enhances communication between testers and developers
 3. Ensures faster resolution and improved user experience
