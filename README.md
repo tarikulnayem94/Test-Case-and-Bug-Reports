@@ -16,12 +16,13 @@ A test case is a documented set of actions, inputs, and expected results designe
 <br><br>
 Ensure all features meet functional requirements
 <br>
-  <br>
+<br>
+  
 1. Validate system behavior under different scenarios
   
 2. Improve software quality and reliability
   
-4. Help uncover hidden defects early in the development cycle
+3. Help uncover hidden defects early in the development cycle
 
 <br>
 
@@ -43,8 +44,11 @@ A bug report provides detailed information about defects or issues found during 
 
 <br>
 ![image](https://github.com/user-attachments/assets/75e5b907-d1bc-4efb-a407-a10d80380696)
+
+<br>
 <br>
 
 https://docs.google.com/spreadsheets/d/1FqpQQ4N14lPa0nBcqvufHuHLV_YBJCr-ZW4JiiNlanc/edit?usp=sharing
 
-<br><br>
+<be>
+<br>
