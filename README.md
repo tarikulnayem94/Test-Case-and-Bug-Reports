@@ -50,7 +50,7 @@ A bug report provides detailed information about defects or issues found during 
 
 <br>
 
- ![image](https://github.com/user-attachments/assets/17ee4f7c-1a20-4f11-91ce-cbd93379d64a)
+![image](https://github.com/user-attachments/assets/593a2a70-6824-4199-ab36-e46201873c59)
 
  </p>
  
