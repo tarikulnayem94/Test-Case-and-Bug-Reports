@@ -15,10 +15,13 @@ A test case is a documented set of actions, inputs, and expected results designe
 💡 Why Test Cases Matter &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
 <br><br>
 Ensure all features meet functional requirements
-<br><br>
+<br>
+  <br>
 1. Validate system behavior under different scenarios
+  
 2. Improve software quality and reliability
-3. Help uncover hidden defects early in the development cycle
+  
+4. Help uncover hidden defects early in the development cycle
 
 <br>
 
@@ -30,9 +33,9 @@ https://docs.google.com/spreadsheets/d/1YSM2WyusImuDmwXczX7rvAVrstPzxq8XI4-5iHgH
 🐞 What is a Bug Report? &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <be>
 <br><br>
 A bug report provides detailed information about defects or issues found during testing. It includes steps to reproduce the bug, expected vs actual results, and relevant screenshots or logs. This helps developers identify and resolve issues more efficiently.
-<br>
-🔧 Why Bug Reporting is Important &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <br><br>
+🔧 Why Bug Reporting is Important  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<be> <br>
 1. Keeps the development team informed of defects
 2. Enhances communication between testers and developers
 3. Ensures faster resolution and improved user experience
