@@ -1,5 +1,5 @@
 # Test-Case-Bug-Reports
-
+<br>
 🧪 About the Project : &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
 <br>
 This project focuses on writing and executing test cases for the futurenation web application. The goal is to ensure these features function correctly and reliably under different conditions.
@@ -43,6 +43,8 @@ A bug report provides detailed information about defects or issues found during 
 3. Ensures faster resolution and improved user experience
 4. Maintains software integrity and stability
 
-
+<br><br>
+![image](https://github.com/user-attachments/assets/75e5b907-d1bc-4efb-a407-a10d80380696)
+<br><br>
 
 https://docs.google.com/spreadsheets/d/1FqpQQ4N14lPa0nBcqvufHuHLV_YBJCr-ZW4JiiNlanc/edit?usp=sharing
