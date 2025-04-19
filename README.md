@@ -43,7 +43,8 @@ A bug report provides detailed information about defects or issues found during 
 4. Maintains software integrity and stability
 
 <br>
-![image](https://github.com/user-attachments/assets/75e5b907-d1bc-4efb-a407-a10d80380696)
+
+ ![image](https://github.com/user-attachments/assets/17ee4f7c-1a20-4f11-91ce-cbd93379d64a)
 
 <br>
 <br>
