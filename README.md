@@ -45,10 +45,7 @@ A bug report provides detailed information about defects or issues found during 
 <br>
 
  ![image](https://github.com/user-attachments/assets/17ee4f7c-1a20-4f11-91ce-cbd93379d64a)
-
 <br>
-<br>
-
 https://docs.google.com/spreadsheets/d/1FqpQQ4N14lPa0nBcqvufHuHLV_YBJCr-ZW4JiiNlanc/edit?usp=sharing
 
 <be>
