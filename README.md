@@ -72,6 +72,8 @@ This repository contains bug reports exported from Bugzilla.
 
 <img width="1907" height="852" alt="image" src="https://github.com/user-attachments/assets/3624feba-effc-4a06-8843-263384c82f76" />
 
+
+
 <img width="1877" height="890" alt="image" src="https://github.com/user-attachments/assets/58885555-774f-4b58-ae10-8f9c75ae317c" />
 
 
