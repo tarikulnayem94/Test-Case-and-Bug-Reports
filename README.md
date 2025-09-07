@@ -66,19 +66,27 @@ https://docs.google.com/spreadsheets/d/1FqpQQ4N14lPa0nBcqvufHuHLV_YBJCr-ZW4JiiNl
 
 This repository contains bug reports exported from Bugzilla.
 
-- **Report Date:** 07--8-2025
+- **Report Date:** 07-08-2025
 
-## Report: 
+## Bugzilla Report: 
 
 <img width="1907" height="852" alt="image" src="https://github.com/user-attachments/assets/3624feba-effc-4a06-8843-263384c82f76" />
 
-
+<br>
 
 <img width="1877" height="890" alt="image" src="https://github.com/user-attachments/assets/58885555-774f-4b58-ae10-8f9c75ae317c" />
 
 
+## ClipUp Report:
+
+This repository contains bug reports exported from ClipUp.
+
+- **Report Date:** 07-08-2025
+
+## ClipUp Report: 
 
 
+<img width="1404" height="902" alt="image" src="https://github.com/user-attachments/assets/6cf6e681-4e4b-4f97-9676-d166fb0a1aa7" />
 
 
 
