@@ -60,5 +60,33 @@ A bug report provides detailed information about defects or issues found during 
 <br>
 https://docs.google.com/spreadsheets/d/1FqpQQ4N14lPa0nBcqvufHuHLV_YBJCr-ZW4JiiNlanc/edit?usp=sharing
 
+
+
+## Bugzilla Report
+
+This repository contains bug reports exported from Bugzilla.
+
+- **Report Date:** 07--8-2025
+
+Report: <img width="1907" height="852" alt="image" src="https://github.com/user-attachments/assets/3624feba-effc-4a06-8843-263384c82f76" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <be>
 <br>
